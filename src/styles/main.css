@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid.grid-cols-6.gap-6.mt-16 {
+  width: 850px;
+  height: 240px;
+}
+
+.box-content.w-900.pt-1.bg-nlw-gradient.self-stretch.rounded-lg.overflow-hidden.mt-4 {
+  width: 900px; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-[#2A2634].px-2.py-12.rounded-md{
+  width: 900px;
+}
