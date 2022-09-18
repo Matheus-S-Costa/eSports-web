@@ -21,6 +21,7 @@ preview da interface do usuário:
 - Nodejs
 - TypeScript
 - Vite (ferramenta para converter o react em ts)
+- Tailwind (para facilitar a edição css)
 
 ## Contatos 📧 
 matheusilva334@gmail.com
