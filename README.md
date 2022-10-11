@@ -7,7 +7,7 @@ Neste projeto foi criado uma página web que se comunica com um servidor. A pág
 ---
 preview da interface do usuário:
 ![preview](/.github/app.png)
-![preview](file:///home/matheus/Documents/presents/arquivos/js.mp4)
+![preview](js.mp4)
 ---
 
 - Comandos para se executar o programa
