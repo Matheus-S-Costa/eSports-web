@@ -3,7 +3,7 @@ import * as Dialog from '@radix-ui/react-dialog'
 import { CreateAdBanner } from './components/CreateAdBanner';
 import { GameBanner } from './components/GameBanner';
 import axios from 'axios';
-
+//importacoes pertinentes
 import "./styles/main.css";
 
 import logoImg from "./assets/logo.svg";
