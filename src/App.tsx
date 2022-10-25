@@ -6,9 +6,10 @@ import axios from 'axios';
 import "./styles/main.css";
 //importacoes pertinentes (axios, react, radix, css)
 
+
 import logoImg from "./assets/logo.svg";
 import { CreateAdModal } from './components/CreateAdModal';
-
+//importacoes de logo e anuncio
 interface Game{
   id: string;
   title: string;
